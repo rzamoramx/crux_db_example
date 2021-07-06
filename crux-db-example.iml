@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: pro.juxt.crux:crux-core:1.17.1" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:clojure:1.10.3" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:core.specs.alpha:0.2.56" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:tools.logging:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:spec.alpha:0.2.194" level="project" />
+    <orderEntry type="library" name="Maven: pro.juxt.clojars-mirrors.com.stuartsierra:dependency:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: pro.juxt.clojars-mirrors.com.taoensso:nippy:3.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.iq80.snappy:snappy:0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.lz4:lz4-java:1.7.1" level="project" />
+    <orderEntry type="library" name="Maven: org.tukaani:xz:1.8" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:tools.reader:1.3.5" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:data.json:2.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:tools.cli:1.0.206" level="project" />
+    <orderEntry type="library" name="Maven: org.agrona:agrona:1.11.0" level="project" />
+    <orderEntry type="library" name="Maven: pro.juxt.clojars-mirrors.edn-query-language:eql:2021.02.28" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.4.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.4.2" level="project" />
+  </component>
+</module>
